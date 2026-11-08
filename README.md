@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:0A66C2&height=190&section=header&text=Chinnam%20Ajay%20Sai%20Phaneendra%20Reddy&fontColor=ffffff&fontSize=30&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20Analyst%20%7C%20Power%20BI%20Developer&descAlignY=60&descSize=16" width="100%" alt="Banner" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Hybrid%20Data%20Analyst%20Roles-0A66C2?style=for-the-badge" alt="Open to work" />
   <img src="https://img.shields.io/badge/Location-Tadepalle%2C%20Andhra%20Pradesh-0A2540?style=for-the-badge" alt="Location" />
 </p>
 
@@ -144,3 +143,4 @@ Data analyst who has worked with **1.85M+ records** using SQL, Python and Power 
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0A2540&height=100&section=footer" width="100%" alt="Footer" />
+
